@@ -6,7 +6,7 @@ This project presents a login form created using HTML and CSS. It offers a simpl
 
 ![Login Form Preview](preview.png)
 
-<a href="https://codebyfaisal.github.io/Loginform" target="_blank">Project Preview</a>
+<a href="https://github.com/codebyfaisal/Loginform" target="_blank">Project Preview</a>
 
 
 ## Features
